@@ -3,7 +3,7 @@ using System.IO;
 
 namespace OOP_lab_5_15_2
 {
-    abstract class Day : Exhibition
+    class Day : Exhibition
     {
         private int _visitorsCount;
         private string _coment; 

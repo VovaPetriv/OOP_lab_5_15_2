@@ -1,6 +1,6 @@
 ﻿namespace OOP_lab_5_15_2
 {
-    class Exhibition
+    abstract class Exhibition
     {
         private string _name;
         private string _sculptorSurename;
